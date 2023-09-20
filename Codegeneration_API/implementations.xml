@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Package id="152" name="implementations">
+    <Classe extends="false" id="1315" name="depart">
+        <Attributes>
+            <Attribute type="int">id</Attribute>
+        </Attributes>
+        <Functions/>
+    </Classe>
+    <Classe extends="false" id="1316" name="teacher">
+        <Attributes>
+            <Attribute type="int">id</Attribute>
+        </Attributes>
+        <Functions/>
+    </Classe>
+    <Classe extends="false" id="1317" name="personne">
+        <Attributes/>
+        <Functions/>
+    </Classe>
+    <Classe extends="personne" id="1318" name="etudiant">
+        <Attributes>
+            <Attribute type="int">id</Attribute>
+        </Attributes>
+        <Functions>
+            <Function name="metod" return="int">
+                <parameter type="int">arg</parameter>
+            </Function>
+        </Functions>
+    </Classe>
+    <Classe extends="false" id="1319" name="depart">
+        <Attributes>
+            <Attribute type="int">id</Attribute>
+        </Attributes>
+        <Functions/>
+    </Classe>
+    <Classe extends="false" id="1320" name="teacher">
+        <Attributes>
+            <Attribute type="int">id</Attribute>
+        </Attributes>
+        <Functions/>
+    </Classe>
+    <Classe extends="false" id="1321" name="personne">
+        <Attributes/>
+        <Functions/>
+    </Classe>
+    <Classe extends="personne" id="1322" name="etudiant">
+        <Attributes>
+            <Attribute type="int">id</Attribute>
+        </Attributes>
+        <Functions>
+            <Function name="metod" return="int">
+                <parameter type="int">arg</parameter>
+            </Function>
+        </Functions>
+    </Classe>
+    <Classe extends="false" id="1352" name="a">
+        <Attributes>
+            <Attribute type="int">id</Attribute>
+        </Attributes>
+        <Functions/>
+    </Classe>
+    <Classe extends="false" id="1353" name="a">
+        <Attributes>
+            <Attribute type="int">id</Attribute>
+        </Attributes>
+        <Functions/>
+    </Classe>
+</Package>
